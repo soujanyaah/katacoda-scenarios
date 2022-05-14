@@ -1,0 +1,22 @@
+{
+  "name": "sliit-y4-demo-2022",
+  "version": "1.0.0",
+  "description": "[![](http://shields.katacoda.com/katacoda/soujiakaru25/count.svg)](https://www.katacoda.com/soujiakaru25 \"Get your profile on Katacoda.com\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soujanyaah/sliit-y4-demo-2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soujanyaah/sliit-y4-demo-2022/issues"
+  },
+  "homepage": "https://github.com/soujanyaah/sliit-y4-demo-2022#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
